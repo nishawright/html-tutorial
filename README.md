@@ -52,4 +52,4 @@
   </tr>
 </table>
 
-<lang="pl"> Nauka języka polskiego jest naprawdę trudna ze względu na złożoną gramatykę.
+<lang="pl">Nauka języka polskiego jest naprawdę trudna ze względu na złożoną gramatykę.
