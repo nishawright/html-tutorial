@@ -18,7 +18,10 @@
 
 <h1>HTML Part 2 Homework - 16<sup>th</sup> October 2018</h1>
 
+<a href="https://upload.wikimedia.org/wikipedia/commons/3/34/Art-portrait-collage_2.jpg" title="View Image Source">
+  
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Art-portrait-collage_2.jpg" alt="art portrait collage" >
+</a>
 
 <dl>
   <dt>Abstract Art</dt>
