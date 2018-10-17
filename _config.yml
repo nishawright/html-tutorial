@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: Learn French
+description: Easy steps to fluent French
+Github:
+  page1: about.html
+  page2: html-practice.html
