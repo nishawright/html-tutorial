@@ -11,6 +11,7 @@ src="https://upload.wikimedia.org/wikipedia/commons/3/34/Art-portrait-collage_2.
 Clockwise from upper left: a self-portrait by Vincent van Gogh; a female ancestor figure by a Chokwe artist; detail from The Birth of Venus by Sandro Botticelli; and an Okinawan Shisa lion. Source: Wikipedia.
 </p>
 
+<p>
 <dl>
   <dt>Abstract Art</dt>
   <dd>A term generally used to describe art which does not attempt to represent an accurate depiction of reality.</dd>
@@ -19,6 +20,7 @@ Clockwise from upper left: a self-portrait by Vincent van Gogh; a female ancesto
   <dt>Impressionism</dt>
   <dd>A style of painting developed mainly in France in the 19<sup>th</sup> century which focused on capturing a fleeting moment in one's artwork. </dd>
 </dl>
+</p>
 
 <table>
   <tr>
