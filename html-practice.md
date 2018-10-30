@@ -8,10 +8,14 @@ href="https://upload.wikimedia.org/wikipedia/commons/3/34/Art-portrait-collage_2
 <img class="imgLeft" style="width:50%; vertical-align:top; border:1px solid #021a40;"
 src="https://upload.wikimedia.org/wikipedia/commons/3/34/Art-portrait-collage_2.jpg" alt="art portrait collage" > </a>
 
-Clockwise from upper left: a self-portrait by Vincent van Gogh; a female ancestor figure by a Chokwe artist; detail from The Birth of Venus by Sandro Botticelli; and an Okinawan Shisa lion. Source: Wikipedia.
+Clockwise from upper left: a self-portrait by Vincent van Gogh; a female ancestor figure by a Chokwe artist; detail from The Birth of Venus by Sandro Botticelli; and an Okinawan Shisa lion. Source: <a href="https://en.wikipedia.org/wiki/Art">Wikipedia</a>
 </p>
 
 <div class="clearLeft"></div>
+
+
+
+
 
 <p>
 <dl>
