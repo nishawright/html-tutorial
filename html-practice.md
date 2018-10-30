@@ -1,8 +1,15 @@
 <h1>HTML Part 2 Homework - 16<sup>th</sup> October 2018</h1>
 
-<img 
-class="imgLeft"
-src="https://upload.wikimedia.org/wikipedia/commons/3/34/Art-portrait-collage_2.jpg" alt="art portrait collage" >
+<p>
+
+<a
+href="https://upload.wikimedia.org/wikipedia/commons/3/34/Art-portrait-collage_2.jpg">
+
+<img class="imgLeft" style="width:70%; vertical-align:top; border:1px solid #021a40;"
+src="https://upload.wikimedia.org/wikipedia/commons/3/34/Art-portrait-collage_2.jpg" alt="art portrait collage" > </a>
+
+Clockwise from upper left: a self-portrait by Vincent van Gogh; a female ancestor figure by a Chokwe artist; detail from The Birth of Venus by Sandro Botticelli; and an Okinawan Shisa lion. Source: Wikipedia.
+</p>
 
 <dl>
   <dt>Abstract Art</dt>
