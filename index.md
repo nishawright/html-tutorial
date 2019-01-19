@@ -1,4 +1,11 @@
 <h1>Home</h1>
+<div id="image-container"><div>
+#image-container {
+background: url(https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg) left top no-repeat;
+box-shadow: 25px 25px 50px 0 white inset, -25px -25px 50px 0 white inset; 
+width: 300px;
+height: 300px;
+}
 <img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="French Flag" style="width:300px;height:250px;">
 <h2>What is Fun French?</h2>
 <p>Welcome to Fun French! This website is aimed at providing you with easy steps to develop you into a fluent French speaker. Within this website you will find useful information and practice with French speaking, grammar and vocabulary.</p>
