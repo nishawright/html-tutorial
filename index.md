@@ -1,6 +1,6 @@
 <h1>Home</h1>
 <p>Welcome to Learn French! This website is aimed at providing you with easy steps to develop you into a fluent French speaker. Within this website you will find useful information and practice with French speaking, grammar and vocabulary.</p>
-<img style="width:70%; float:left; margin: 0 10px 10px 0;" src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="French Flag" style="width:300px;height:250px;">
+<img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="French Flag" style="width:300px;height:250px;">
 <h2>Website Content</h2>
 <p>We offer a wide range of resources to help you hone your French skills.</p>
 <h3>About France</h3>
