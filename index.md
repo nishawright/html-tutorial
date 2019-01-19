@@ -4,20 +4,17 @@
 <h2>Website Content</h2>
 <p>We offer a wide range of resources to help you hone your French skills.</p>
 <h3>About France</h3>
-<ul>
-  <li>Interactive presentation on facts about France</li>
-  <li>French facts quiz</li>
-</ul>
-<h3>Speaking</h3>
-<h3>Grammar</h3>
+<p>Here you'll get an introduction to France and French culture through an interactive presentation on facts about France. You can then put this knowledge to the test by taking our French facts quiz!.</p>
 <h3>Vocubulary</h3>
-<p>This page contains information, exercises and activities on French vocabulary. The vocabulary will be on the following topics:</p>
+<p>Here you'll be able to improve your French vocabulary with information, exercises and activities on topics such as:</p>
 <ul>
   <li>Verbs</li>
   <li>Days of the week</li>
   <li>Family and friends</li>
   <li>Home and environment</li>
 </ul>
+<h3>Speaking</h3>
+<h3>Grammar</h3>
 <h3>Practice</h3>
 
 
