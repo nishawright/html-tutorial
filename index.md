@@ -8,10 +8,10 @@
 <h3 align="center">Vocubulary</h3>
 <p align="center">Here you'll be able to improve your French vocabulary with information, exercises and activities on topics such as:</p>
 <ul>
-  <li>Verbs</li>
-  <li>Days of the week</li>
-  <li>Family and friends</li>
-  <li>Home and environment</li>
+  <li align="center">Verbs</li>
+  <li align="center">Days of the week</li>
+  <li align="center">Family and friends</li>
+  <li align="center">Home and environment</li>
 </ul>
 <h3 align="center">Useful French phrases</h3>
 <p align="center">Here you'll be able to learn and practice lots of useful French phrases in an interactive way!</p>
