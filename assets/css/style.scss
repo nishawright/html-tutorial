@@ -26,3 +26,10 @@
   margin: 5px;
 }
 
+<div id="image-container"><div>
+#image-container {
+background: url(https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg) left top no-repeat;
+box-shadow: 25px 25px 50px 0 white inset, -25px -25px 50px 0 white inset; 
+width: 300px;
+height: 300px;
+}
