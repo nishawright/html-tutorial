@@ -1,8 +1,10 @@
 ---
 ---
 @import "{{ site.theme }}";
-background: rgb(11,69,223);
+#grad {
+  background: rgb(11,69,223);
 background: linear-gradient(90deg, rgba(11,69,223,1) 0%, rgba(255,255,255,1) 50%, rgba(237,12,12,1) 100%);
+}
 
 .imgLeft {
   float:left;
