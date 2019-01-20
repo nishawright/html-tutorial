@@ -8,13 +8,20 @@
 <h3 align="center">Vocubulary</h3>
 <p align="center">Here you'll be able to improve your French vocabulary with information, exercises and activities on topics such as:</p>
 <div class="parent">
-<ul>
-  <li>Verbs</li>
-  <li>Days of the week</li>
-  <li>Family and friends</li>
-  <li>Home and environment</li>
+<div id="section1">
+<div id="abc">
+<ul id="one">
+<li>one</li>
+<li>two</li>
+<li>three</li>
 </ul>
-</div>
+<ul id="two">
+<li>In case you have a long string you will need "text-align: left". Also your "max-width" needs to be adjusted.</li>
+<li>small string</li>
+<li>Your small string creates a problem if you  provide "text-align: center;"</li>
+</ul>
+<div/>
+<div/>
 <h3 align="center">Useful French phrases</h3>
 <p align="center">Here you'll be able to learn and practice lots of useful French phrases in an interactive way!</p>
 <h3 align="center">Further Study</h3>
