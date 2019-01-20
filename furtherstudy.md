@@ -1,4 +1,4 @@
-<h1>Further Study</h1>
+<h1><u>Further Study</u></h1>
 <p>Here you can find some more resources and websites to help you continue your French and language learning adventures!</p>
 <h2>More Websites to Learn French</h2>
 <p>Here are some websites that will come in handy as you learn the French language!</p>
