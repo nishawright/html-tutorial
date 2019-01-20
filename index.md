@@ -1,5 +1,5 @@
 <h1 align="center">Home</h1><br>
-<img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="French Flag" width="270" height="250">
+<img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="French Flag" width="230" height="200">
 <p align="center"><br>Welcome to Fun French! This website provides you with easy, fun steps to help you become fluent in French.<br><br><br><br><br><br>
     
 <h2 align="center">What can you find?</h2>
