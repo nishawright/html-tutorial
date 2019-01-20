@@ -8,11 +8,11 @@
 <h3 align="center">Vocubulary</h3>
 <p align="center">Here you'll be able to improve your French vocabulary with information, exercises and activities on topics such as:</p>
 <div style="text-align:center;">
-    <h2 style="margin-top:43px;" class="text-center">Important years of life and work:</h2>
     <ul >
-      <li>cat nip</li>
-      <li>laser pointers</li>
-      <li>lasagna</li>
+      <li>Verbs</li>
+      <li>Days of the week</li>
+      <li>Family and friends</li>
+      <li>Food</li>
     </ul>
   </div>
 <h3 align="center">Useful French phrases</h3>
