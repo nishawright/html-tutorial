@@ -11,9 +11,10 @@
 <div id="section1">
 <div id="abc">
 <ul id="one">
-<li>one</li>
-<li>two</li>
-<li>three</li>
+<li>Verbs</li>
+<li>Days of the week</li>
+<li>Family and friends</li>
+<li>Food</li>  
 </ul>
 <ul id="two">
 <li>In case you have a long string you will need "text-align: left". Also your "max-width" needs to be adjusted.</li>
