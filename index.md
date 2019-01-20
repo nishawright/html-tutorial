@@ -7,12 +7,14 @@
 <p align="center">Here you'll get an introduction to France and French culture through an interactive presentation on facts about France. You can then put this knowledge to the test by taking our French facts quiz!</p>
 <h3 align="center">Vocubulary</h3>
 <p align="center">Here you'll be able to improve your French vocabulary with information, exercises and activities on topics such as:</p>
+<div class="parent">
 <ul>
   <li>Verbs</li>
   <li>Days of the week</li>
   <li>Family and friends</li>
   <li>Home and environment</li>
 </ul>
+</div>
 <h3 align="center">Useful French phrases</h3>
 <p align="center">Here you'll be able to learn and practice lots of useful French phrases in an interactive way!</p>
 <h3 align="center">Further Study</h3>
