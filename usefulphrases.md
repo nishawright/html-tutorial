@@ -1,4 +1,4 @@
-  <h1 align="center"><u>Useful phrases</u></h1>
+  <h1 align="center"><u>Useful Phrases</u></h1>
 <h3>Here are some really useful phrases to help you get your French going!</h3>
 <table style="width:100%">
   <tr>
