@@ -3,6 +3,7 @@
 <img align="left" src="http://images.clipartpanda.com/backpack-clipart-school-backpack.png" alt="Image of a backpack" height="225.5" width="153">
 <h2 align="center">More Websites to Learn French</h2>
 <p align="center">Here are some websites that will come in handy as you learn the French language!</p>
+<img align="left" src="http://images.clipartpanda.com/backpack-clipart-school-backpack.png" alt="Image of a backpack" height="225.5" width="153">
 <h3 align="center"><a href="https://www.bbc.com/bitesize/subjects/z9dqxnb"> BBC Bitesize French</a></h3>
 <p align="center">This site contains lots of useful information and activities on topics such as familiar vocabulary, useful phrases, lifestyle, leisure and the media, home and the environment, work and education, French life and culture, and grammar.</p>
 <h3 align="center"><a href="https://www.french-games.net/"> French Games</a></h3>
