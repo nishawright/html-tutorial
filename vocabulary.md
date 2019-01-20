@@ -3,7 +3,6 @@
 <h3 align="center">Let's have a look at how to use some of the most common French verbs in present tense!</h3>
 <p align="center"> 1) Here is a table showing you how to use the verb <b><i>être</i></b>, which means <b><i>'to be':</i></b></p>
 <table class="table">
->
   <tr>
     <th>French</th>
     <th>English</th> 
