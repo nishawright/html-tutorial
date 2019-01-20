@@ -1,13 +1,20 @@
 <h1>Vocabulary</h1>
 <p>Here is a table showing you how to use the very common verb être, which means 'to be'!/p>
-<table>
+<table style="width:100%">
   <tr>
-    <td>Je suis</td>
-    <td>Tu es</td>
-    <td>Il/elle est</td>
-    <td>Nous sommes</td>
-    <td>Vous êtes</td>
-    <td>Ils/elles sont</td>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    <td>94</td>
   </tr>
 </table>
 
