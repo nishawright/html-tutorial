@@ -13,6 +13,22 @@
     <td>Eve</td>
     <td>Jackson</td> 
   </tr>
+   <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+  </tr>
 </table>
 
 <p> Now, test your knowledge of the verb 'être' in present tense without looking at the table!</p>
