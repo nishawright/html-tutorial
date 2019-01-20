@@ -1,6 +1,5 @@
 <h1 align="center"><u>Further Study</u></h1>
 <p align="center">Here you can find some more resources and websites to help you continue your French and language learning adventures!</p>
-<img align="left" src="http://images.clipartpanda.com/backpack-clipart-school-backpack.png" alt="Image of a backpack" height="225.5" width="153">
 <h2 align="center">More Websites to Learn French</h2>
 <p align="center">Here are some websites that will come in handy as you learn the French language!</p>
 <img align="left" src="http://images.clipartpanda.com/backpack-clipart-school-backpack.png" alt="Image of a backpack" height="225.5" width="153">
