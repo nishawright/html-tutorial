@@ -1,5 +1,5 @@
 <h1>Useful Phrases</h1>
-<h2>Here are some really useful phrases to help you get your French going!</h2>
+<h3>Here are some really useful phrases to help you get your French going!</h3>
 <table style="width:100%">
   <tr>
     <th>French</th>
