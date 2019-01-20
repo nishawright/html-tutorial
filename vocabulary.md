@@ -1,7 +1,7 @@
 <h1>Vocabulary</h1>
 <h2>Basic Verbs</h2>
 <h3>Let's have a look at how to use some of the most common French verbs in present tense!</h3>
-<p>Here is a table showing you how to use the verb <b><i>être</i></b>, which means <b><i>'to be'.</b></i></p>
+<p>Here is a table showing you how to use the verb <b><i>être</i></b>, which means <b><i>'to be'.</i></b></p>
 <table style="width:100%">
   <tr>
     <th>French</th>
@@ -35,7 +35,7 @@
 
 <p> Now, test your knowledge of the verb 'être' without looking at the table!</p>
 <iframe src="https://h5p.org/h5p/embed/411340" width="1090" height="372" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-<p>Here is a table showing you how to use the verb <b><i>avoir</i></b>, which means <b><i>'to have'.</b></i></p>
+<p>Here is a table showing you how to use the verb <b><i>avoir</i></b>, which means <b><i>'to have'.</i></b></p>
 <table style="width:100%">
   <tr>
     <th>French</th>
@@ -70,7 +70,7 @@
 
 <p> Now, test your knowledge of the verb 'avoir' without looking at the table!</p>
 <iframe src="https://h5p.org/h5p/embed/411548" width="1090" height="368" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script
-<p>Here is a table showing you how to use the verb <b><i>faire</i></b>, which means <b><i>'to do/make'.</b></i></p>
+<p>Here is a table showing you how to use the verb <b><i>faire</i></b>, which means <b><i>'to do/make'.</i></b></p>
 <table style="width:100%">
   <tr>
     <th>French</th>
