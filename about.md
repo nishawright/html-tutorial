@@ -1,4 +1,4 @@
-<h1>About France</h1>
+<h1><u>About France</u></h1>
 <h3> First, where exactly is France?</h3>
 <img class="imgLeft" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/France_in_Europe_%28-rivers_-mini_map%29.svg" alt="Image of France on the map"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3>Now let's take a look at some fun facts about France using this interactive presentation!</h3>
