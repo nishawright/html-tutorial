@@ -19,6 +19,6 @@
 <h3 align="center">Useful French phrases</h3>
 <p align="center">Here you'll be able to learn and practice lots of useful French phrases in an interactive way!</p>
 <h3 align="center">Further Study</h3>
-<p align="center">Here you can find some other useful websites so that you can improve your French even more!</p><br><br><br><br><br>
+<p align="center">Here you can find some other useful websites so that you can improve your French even more!</p><br><br>
 
 <p style="font-size:12px">ID No.: 171002603</p>
