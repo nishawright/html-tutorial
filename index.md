@@ -6,7 +6,7 @@
 <p align="center">Our website is packed full of useful and interesting stuff!</p>
 <h3 align="center">About France</h3>
 <p align="center">Here you'll get an introduction to France and French culture through an interactive presentation on facts about France. You can then put this knowledge to the test by taking our French facts quiz!</p>
-<h3 align="center">Vocabulary</h3>
+<h3 align="center">French Vocabulary</h3>
 <p align="center">Here you'll be able to improve your French vocabulary with information, exercises and activities on topics such as:</p>
 <div style="text-align:center;">
     <ul >
@@ -16,9 +16,9 @@
       <li>Food</li>
     </ul>
   </div>
-<h3 align="center">Useful French phrases</h3>
+<h3 align="center">Useful French Phrases</h3>
 <p align="center">Here you'll be able to learn and practice lots of useful French phrases in an interactive way!</p>
 <h3 align="center">Further Study</h3>
-<p align="center">Here you can find some other useful websites so that you can improve your French even more!</p><br><br>
+<p align="center">Here you can find some other useful websites so that you can improve your French and other language skills even more!</p><br>
 
 <p style="font-size:12px">ID No.: 171002603</p>
