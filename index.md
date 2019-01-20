@@ -21,4 +21,4 @@
 <h3 align="center">Further Study</h3>
 <p align="center">Here you can find some other useful websites so that you can improve your French even more!</p><br><br><br><br><br>
 
-<p style="font-size:8px">ID No.: 171002603</p>
+<p style="font-size:12px">ID No.: 171002603</p>
