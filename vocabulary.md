@@ -107,14 +107,43 @@
 
 <h2>Days of the Week</h2>
 <p> Try to memorise the table below!</p>
+<table style="width:100%">
+  <tr>
+    <th>French</th>
+    <th>English</th> 
+  </tr>
+  <tr>
+    <td>Lundi</td>
+    <td>Monday</td> 
+  </tr>
+  <tr>
+    <td>Mardi</td>
+    <td>Tuesday</td> 
+  </tr>
+   <tr>
+    <td>Mercredi</td>
+    <td>Wednesday</td> 
+  </tr>
+  <tr>
+    <td>Jeudi</td>
+    <td>Thursday</td> 
+  </tr>
+  <tr>
+    <td>Vendredi</td>
+    <td>Friday</td> 
+  </tr>
+  <tr>
+    <td>Samedi</td>
+    <td>Saturday</td> 
+  </tr>
+  <tr>
+    <td>Dimanche</td>
+    <td>Sunday</td> 
+  </tr>
+</table>
 
 <p>Now, test yourself!</p>
 <iframe src="https://h5p.org/h5p/embed/411642" width="619" height="232" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-
-<h2>Friends and Family</h2>
-<p> Try your best to memorise the days of the week in the table below!</p>
-
-<p>Now, test yourself!</p>
 
 <h2>Food and drink</h2>
 <p> Try your best to memorise the words for food and drink in the table below!</p>
