@@ -74,26 +74,26 @@
   </tr>
   <tr>
     <td>Je fais</td>
-    <td>I do/make</td> 
+    <td>I do</td> 
   </tr>
   <tr>
     <td>Tu fais</td>
-    <td>You do/make</td> 
+    <td>You do</td> 
   </tr>
    <tr>
     <td>Il/elle/on fait</td>
-    <td>He/she/it does/makes</td> 
+    <td>He/she/it does</td> 
   </tr>
   <tr>
     <td>Nous faisons</td>
-    <td>We do/make</td> 
+    <td>We do</td> 
   </tr>
   <tr>
     <td>Vous faites</td>
-    <td>You (pl) make/do</td> 
+    <td>You (pl) do</td> 
   </tr>
   <tr>
     <td>Ils/elles font</td>
-    <td>They make/do</td> 
+    <td>They do</td> 
   </tr>
 </table>
