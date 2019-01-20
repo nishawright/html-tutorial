@@ -39,28 +39,28 @@
     <th>English</th> 
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
+    <td>J'ai</td>
+    <td>I have</td> 
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
+    <td>Tu as</td>
+    <td>You have</td> 
   </tr>
    <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
+    <td>Il/elle/on</td>
+    <td>He/she/it has</td> 
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
+    <td>Nous avons</td>
+    <td>We have</td> 
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
+    <td>Vous avez</td>
+    <td>You (pl) have</td> 
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
+    <td>Ils/elles ont</td>
+    <td>They have</td> 
   </tr>
 </table>
 
@@ -73,27 +73,27 @@
     <th>English</th> 
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
+    <td>Je fais</td>
+    <td>I do/make</td> 
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
+    <td>Tu fais</td>
+    <td>You do/make</td> 
   </tr>
    <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
+    <td>Il/elle/on fait</td>
+    <td>He/she/it does/makes</td> 
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
+    <td>Nous faisons</td>
+    <td>We do/make</td> 
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
+    <td>Vous faites</td>
+    <td>You (pl) make/do</td> 
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
+    <td>Ils/elles font</td>
+    <td>They make/do</td> 
   </tr>
 </table>
