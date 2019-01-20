@@ -1,7 +1,7 @@
 <h1 align="center"><u>Further Study</u></h1>
 <p align="center">Here you can find some more resources and websites to help you continue your French and language learning adventures!</p>
 <img align="left" src="http://images.clipartpanda.com/backpack-clipart-school-backpack.png" alt="Image of a backpack" height="250" width="200">
-<img align="right" src="https://www.clipartmax.com/png/middle/2-21678_9-photos-of-cartoon-open-book-book-clipart.png" alt="Image of books">
+<img align="right" src="http://greentral.com/wp-content/uploads/2018/04/open-book-clipart-open-book-clip-art-free-vector-in-open-office-drawing-svg-svg-clipart-free-download.jpg" alt="Image of books">
 <h2 align="center">More Websites to Learn French</h2>
 <p align="center">Here are some websites that will come in handy as you learn the French language!</p>
 <h3 align="center"><a href="https://www.bbc.com/bitesize/subjects/z9dqxnb"> BBC Bitesize French</a></h3>
