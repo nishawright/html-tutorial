@@ -1,6 +1,6 @@
 <h1 align="center"><u>About France</u></h1>
 <h3 align="center">First, where exactly is France?</h3>
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/France_in_Europe_%28-rivers_-mini_map%29.svg" alt="Image of France on the map" border="10"><br>
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/France_in_Europe_%28-rivers_-mini_map%29.svg" alt="Image of France on the map" border="10 "width="500" height="700"><br>
 <h3 align="center">Now let's take a look at some fun facts about France using this interactive presentation!</h3>
 <iframe src="https://h5p.org/h5p/embed/411301" width="830" height="490" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
