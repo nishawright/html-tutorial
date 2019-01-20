@@ -1,8 +1,8 @@
-<h1><u>Vocabulary</u></h1>
-<h2>Basic Verbs</h2>
-<h3>Let's have a look at how to use some of the most common French verbs in present tense!</h3>
-<p> 1) Here is a table showing you how to use the verb <b><i>être</i></b>, which means <b><i>'to be':</i></b></p>
-<table style="width:100%">
+<h1 align="center"><u>Vocabulary</u></h1>
+<h2 align="center">Basic Verbs</h2>
+<h3 align="center">Let's have a look at how to use some of the most common French verbs in present tense!</h3>
+<p align="center"> 1) Here is a table showing you how to use the verb <b><i>être</i></b>, which means <b><i>'to be':</i></b></p>
+<table align="center" style="width:100%">
   <tr>
     <th>French</th>
     <th>English</th> 
@@ -33,10 +33,10 @@
   </tr>
 </table>
 
-<p> Now, test your knowledge of the verb 'être' without looking at the table!</p>
+<p align="center"> Now, test your knowledge of the verb 'être' without looking at the table!</p>
 <iframe src="https://h5p.org/h5p/embed/411340" width="1090" height="372" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-<p> 2) Here is a table showing you how to use the verb <b><i>avoir</i></b>, which means <b><i>'to have':</i></b></p>
-<table style="width:100%">
+<p align="center"> 2) Here is a table showing you how to use the verb <b><i>avoir</i></b>, which means <b><i>'to have':</i></b></p>
+<table align="center" style="width:100%">
   <tr>
     <th>French</th>
     <th>English</th> 
@@ -68,10 +68,10 @@
 </table>
 
 
-<p> Now, test your knowledge of the verb 'avoir' without looking at the table!</p>
+<p align="center"> Now, test your knowledge of the verb 'avoir' without looking at the table!</p>
 <iframe src="https://h5p.org/h5p/embed/411548" width="1090" height="368" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script
-<p> 3) Here is a table showing you how to use the verb <b><i>faire</i></b>, which means <b><i>'to do/make':</i></b></p>
-<table style="width:100%">
+<p align="center"> 3) Here is a table showing you how to use the verb <b><i>faire</i></b>, which means <b><i>'to do/make':</i></b></p>
+<table align="center" style="width:100%">
   <tr>
     <th>French</th>
     <th>English</th> 
@@ -102,12 +102,12 @@
   </tr>
 </table>
 
-<p>Now, test your knowledge of the verb 'faire' without looking at the table!</p>
+<p align="center">Now, test your knowledge of the verb 'faire' without looking at the table!</p>
 <iframe src="https://h5p.org/h5p/embed/411567" width="1090" height="368" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<h2>Days of the Week</h2>
-<p> Try to memorise the table below!</p>
-<table style="width:100%">
+<h2 align="center">Days of the Week</h2>
+<p align="center"> Try to memorise the table below!</p>
+<table align="center" style="width:100%">
   <tr>
     <th>French</th>
     <th>English</th> 
@@ -142,9 +142,9 @@
   </tr>
 </table>
 
-<p>Now, test yourself!</p>
+<p align="center">Now, test yourself!</p>
 <iframe src="https://h5p.org/h5p/embed/411642" width="619" height="232" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<h2>Food and drink</h2>
-<p> Try your best to memorise the words for food and drink in the table below!</p>
+<h2 align="center">Food and drink</h2>
+<p align="center"> Try your best to memorise the words for food and drink in the table below!</p>
 <iframe src="https://h5p.org/h5p/embed/411672" width="1090" height="666" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
