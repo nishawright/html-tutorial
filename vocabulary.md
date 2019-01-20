@@ -1,4 +1,4 @@
-<h1>Vocabulary</h1>
+<h1><u>Vocabulary</u></h1>
 <h2>Basic Verbs</h2>
 <h3>Let's have a look at how to use some of the most common French verbs in present tense!</h3>
 <p> 1) Here is a table showing you how to use the verb <b><i>être</i></b>, which means <b><i>'to be':</i></b></p>
