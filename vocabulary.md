@@ -144,6 +144,9 @@
 
 <p align="center">Now, test yourself!</p>
 <iframe src="https://h5p.org/h5p/embed/411642" width="619" height="232" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<br>
+<p>Listen to this exciting song which will help you to remember the French days of the week!</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lpwf5N0rfVE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h2 align="center">Food and drink</h2>
 <p align="center"> Try your best to memorise the words for food and drink in the table below!</p>
