@@ -61,5 +61,5 @@
 <br>
 <iframe src="https://h5p.org/h5p/embed/411711" width="1090" height="493" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 <br>
-<p>Watch this video to hear more useful phrases to help your French improve!</p>
+<p>Watch this video to hear more useful phrases to help improve your French!</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mDMFi381mVU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
