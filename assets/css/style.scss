@@ -26,10 +26,13 @@
   margin: 5px;
 }
 
-.parent {
-  text-align: center;
+#one {
+    max-width:1%;
+    margin: auto;
+    text-align: left;
 }
-.parent > ul {
-  display: inline-block;
+#two{
+  max-width:60%;
+  margin:auto;
+ text-align:center;
 }
-
