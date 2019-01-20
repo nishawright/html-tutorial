@@ -1,5 +1,6 @@
 <h1>Vocabulary</h1>
-<p>Here is a table showing you how to use the very common verb être, which means 'to be'!/p>
+<h2>Basic Verbs</h2>
+<p>Here is a table showing you how to use the very common verb <b><i>être</i></b>, which means 'to be'!/p>
 <table style="width:100%">
   <tr>
     <th>French</th>
