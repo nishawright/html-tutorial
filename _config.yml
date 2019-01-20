@@ -3,7 +3,6 @@ title: Fun French!
 description: Making learning French fun!
 github:
   page1: about.html
-  page2: html-practice.html
-  page3: vocabulary.html
-  page4: grammar.html
-  page5: practice.html
+  page2: vocabulary.html
+  page3: grammar.html
+  page4: practice.html
